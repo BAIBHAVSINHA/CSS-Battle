@@ -11,13 +11,7 @@ body{"box-shadow:0 0 0 2 in #b5e0ba,0 0 0 5 in #5D3A3A"}
 
 #3 css solution
 body{"background:#6592cf;display:flex;justify-content:center;align-items:center;"}
-p{
-  margin:0;
-  height:150;
-  background:#243d83;
-  position:absolute;
-  border-radius:50%;
-  }
+p{"margin:0;height:150;background:#243d83;position:absolute;border-radius:50%;"}
   p[a]{
     width:300;
     border-radius:0;
