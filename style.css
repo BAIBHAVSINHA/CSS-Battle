@@ -16,3 +16,10 @@
 "p[b]{width:250;height:250;background:#6592CF;z-index:2;"}
 "p[c]{width:150;z-index:3;"}
 "p[d]{width:50;height:50;background:#EEB850;z-index:4"}
+
+#4 css solution
+"body{background:#62306D;}
+"div{background:#F7EC7D;height:100px;width:100px;border-radius:0 0 50px 50px;position:absolute;}
+"#a{top:150px;left:50px;}
+"#b{top:50px;left:150px;transform:rotate(180deg);}
+"#c{top:150px;left:250px;}
