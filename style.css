@@ -49,13 +49,6 @@
 "body{background:#222730;}
 "div{background:#4caab3;height:150;width:700;}
 "#a{margin-top:75;}
-  #b{
-    height:250;
-    width:250;
-    background:#222730;
-    margin-top:-200.5;
-    margin-left:67;
-    transform:rotate(45deg);
-  }
+"#b{height:250;width:250;background:#222730;margin-top:-200.5;margin-left:67;transform:rotate(45deg);}
 "#c{height:150;width:150;margin-top:-200;margin-left:118;transform:rotate(45deg);}
 "#d{height:50;width:50;margin-top:-100;margin-left:168;transform:rotate(45deg);background:#393e46;border-radius:100%;}
