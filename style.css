@@ -30,19 +30,8 @@
 "div:nth-of-type(2){margin:-30px 72px;box-shadow:60px -60px #998235;border-radius:60px 0px 60px 60px;}
 
 #6 css solution
-"body{
-    background:#e3516e;
-  }
-  div{
-    height:100;
-    width:100;
-    display:inline-block;
-  }
-  #a{
-    background:#51B5A9;
-    border-radius:100px 0 0 0;
-    margin-top:42;
-    margin-left:92;
-  }
+"body{background:#e3516e;}
+"div{height:100;width:100;display:inline-block;}
+"#a{background:#51B5A9;border-radius:100px 0 0 0;margin-top:42;margin-left:92;}
 "#b{background:#fade8b;border-radius:0 100px 0 0;margin-top:42;margin-left:-3.7;}
 "#c{background:#F7F3D7;border-radius:0 0 0 100px;height:100;width:100;margin-top:-3.7;margin-left:92;}
