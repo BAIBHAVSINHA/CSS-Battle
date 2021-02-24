@@ -46,15 +46,9 @@
 "h1{color:060F55;width:20;height:140;border-radius:21q;box-shadow:21q 0,40px -32q#6592cf,60px 0,80px -32q#6592cf,100px 0,120px -32q#6592cf,140px 0,85q 160q;}
 
 #9 css solution
-" body{background:#222730;}
-  div{
-    background:#4caab3;
-    height:150;
-    width:700;
-  }
-  #a{
-    margin-top:75;
-  }
+"body{background:#222730;}
+"div{background:#4caab3;height:150;width:700;}
+"#a{margin-top:75;}
   #b{
     height:250;
     width:250;
@@ -63,11 +57,5 @@
     margin-left:67;
     transform:rotate(45deg);
   }
-  #c{
-    height:150;
-    width:150;
-    margin-top:-200;
-    margin-left:118;
-    transform:rotate(45deg);
-  }
-  "#d{height:50;width:50;margin-top:-100;margin-left:168;transform:rotate(45deg);background:#393e46;border-radius:100%;}
+"#c{height:150;width:150;margin-top:-200;margin-left:118;transform:rotate(45deg);}
+"#d{height:50;width:50;margin-top:-100;margin-left:168;transform:rotate(45deg);background:#393e46;border-radius:100%;}
