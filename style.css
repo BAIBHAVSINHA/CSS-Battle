@@ -91,28 +91,10 @@
 #18 css solution
 
 #19 css solution
-<div id="a"></div><div id="b"></div><div id="c"></div><style>body{background:#0B2429;}
-div{
-height:100;
-width:100;
-background:#F3AC3C;}
-#a{
-margin-top:135;
-margin-left:142;
-transform:rotate(45deg)}
-#b{
-height:70.5;
-width:70.5;
-transform:skew(0deg, -45deg) ;
-background:#998235;
-margin-top:-155;
-margin-left:121;}
-#c{
-height:70.5;
-width:70.5;
-transform:skew(0deg, 45deg) ;
-background:#1A4341;
-margin-top:-70.89;
-margin-left:192;}
+"<div id="a"></div><div id="b"></div><div id="c"></div><style>body{background:#0B2429;}
+"div{height:100;width:100;background:#F3AC3C;}
+"#a{margin-top:135;margin-left:142;transform:rotate(45deg)}
+"#b{height:70.5;width:70.5;transform:skew(0deg, -45deg) ;background:#998235;margin-top:-155;margin-left:121;}
+"#c{height:70.5;width:70.5;transform:skew(0deg, 45deg) ;background:#1A4341;margin-top:-70.89;margin-left:192;}
 
 #20 css solution
