@@ -117,22 +117,11 @@
 "#g{background:#F5BB9C;height:60;width:60;margin-top:45;margin-left:162;border-radius:100%;transform:rotate(45deg);}
 
 #18 css solution
-<div id="a"></div><div id="b"></div><div id="c"></div><div id="d"></div><div id="e"></div><div id="f"></div><div id="g"></div><div id="h"></div><div id="i"></div><div id="j"></div><div id="k"></div><div id="l"></div><style>
-body{background:#5C434C;}
-div{
-height:80;
-width:80;
-border-radius:100px 0 0 0;
-margin-top:20;
-background:#F09462;
-}
-#a{
-margin-top:10;
-margin-left:2;}
-#b{
-background:#F5D6B4;
-margin-left:2;}
-#c{margin-left:2;}
+"body{background:#5C434C;}
+"div{height:80;width:80;border-radius:100px 0 0 0;margin-top:20;background:#F09462;}
+"#a{margin-top:10;margin-left:2;}
+"#b{background:#F5D6B4;margin-left:2;}
+"#c{margin-left:2;}
 #d{
 background:#F5D6B4;
 margin-top:-280;
