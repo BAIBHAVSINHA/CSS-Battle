@@ -122,35 +122,15 @@
 "#a{margin-top:10;margin-left:2;}
 "#b{background:#F5D6B4;margin-left:2;}
 "#c{margin-left:2;}
-#d{
-background:#F5D6B4;
-margin-top:-280;
-margin-left:102;
-}
-#e{margin-left:102;}
-#f{
-background:#F5D6B4;
-margin-left:102;
-}
-#g{
-margin-top:-280;
-margin-left:202;
-}
-#h{
-background:#F5D6B4;
-margin-left:202;
-}
-#i{margin-left:202;}
-#j{
-background:#F5D6B4;
-margin-top:-280;
-margin-left:302;
-}
-#k{margin-left:302;}
-#l{
-background:#F5D6B4;
-margin-left:302;
-}
+"#d{background:#F5D6B4;margin-top:-280;margin-left:102;}
+"#e{margin-left:102;}
+"#f{background:#F5D6B4;margin-left:102;}
+"#g{margin-top:-280;margin-left:202;}
+"#h{background:#F5D6B4;margin-left:202;}
+"#i{margin-left:202;}
+"#j{background:#F5D6B4;margin-top:-280;margin-left:302;}
+"#k{margin-left:302;}
+"#l{background:#F5D6B4;margin-left:302;}
 
 #19 css solution
 "<div id="a"></div><div id="b"></div><div id="c"></div><style>body{background:#0B2429;}
