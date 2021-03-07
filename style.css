@@ -304,3 +304,53 @@
     margin-top:40;
     margin-left:112;
   }
+
+#26 css solution
+<div id="a"></div><div id="b"></div><div id="c"></div><div id="d"></div><div id="e"></div><div id="f"></div>
+<div id="g"></div>
+<style>
+  body{background:#6592CF;}
+  div{
+    background:#060F55;height:120;width:120;border-radius:100%;
+  }
+  #a{
+    margin-top:40;
+    margin-left:32;
+  }
+  #b{
+    margin-left:232;
+    margin-top:-120;
+  }
+  #c{
+    margin-left:132;
+    margin-top:-20;
+  }
+  #d{
+    height:80;
+    width:80;
+    background:#6592CF;
+    margin-top:-200;
+    margin-left:52;
+  }
+  #e{
+    background:#6592CF;
+    height:80;
+    width:80;
+    margin-top:-80;
+    margin-left:252;
+  }
+  #f{
+    background:#6592CF;
+    height:80;
+    width:80;
+    margin-top:20;
+    margin-left:152;
+  }
+  #g{
+    border-radius:0;
+    background:#6592CF;
+    height:100;
+    width:400;
+    margin-top:-140;
+    margin-left:-8;
+  }
