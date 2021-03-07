@@ -354,3 +354,61 @@
     margin-top:-140;
     margin-left:-8;
   }
+
+#27 css solution
+<div id="a"></div><div id="b"></div><div id="c"></div><div id="d"></div><div id="e"></div><div id="f"></div><div id="g"></div>
+<style>
+  body{
+    background:#E38F66;
+  }
+  #a{
+    height:200;
+    width:200;
+    background:#AA445F;
+    border-radius:100%;
+    margin-top:50;
+    margin-left:92;
+  }
+  #b{
+    background:#F7EC7D;
+    height:140;
+    width:140;border-radius:100%;
+    margin-top:-170;
+    margin-left:122;
+  }
+  #c{
+    background:#AA445F;
+    height:80;
+    width:80;
+    border-radius:100%;
+    margin-top:-110;
+    margin-left:152;
+  }
+  #d{
+    height:60;
+    width:60;
+    background:#AA445F;
+    margin-left:122;
+    margin-top:-100;
+  }
+  #e{
+    height:40;
+    width:40;
+    background:#AA445F;
+    margin-left:152;
+    margin-top:-78;
+  }
+  #f{
+    background:#AA445F;
+    height:60;
+    width:60;
+    margin-top:50;
+    margin-left:192;
+  }
+  #g{
+    background:#AA445F;
+    height:40;
+    width:40;
+    margin-top:-72;
+    margin-left:230;
+  }
