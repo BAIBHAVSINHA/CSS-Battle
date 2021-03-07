@@ -217,3 +217,28 @@
   }
 
 #23 css solution
+<div id="a"></div><div id="b"></div><div id="c"></div>
+<style>
+  body{background:#F3AC3C;}
+  div{
+    background:#1A4341;
+  }
+  #a{
+    height:200;
+    width:200;
+    margin-left:92;
+    margin-top:50;
+  }
+  #b{
+    height:100;width:100;
+    background:#998235;
+    margin-top:-100;
+    margin-left:92;
+  }
+  #c{
+    height:50;width:50;background:#F3AC3C;
+    margin-top:-50;
+    margin-left:142
+  }
+
+#24 css solution
