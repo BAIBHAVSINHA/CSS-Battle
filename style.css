@@ -465,3 +465,52 @@
   }
 
 #28 css solution
+<div id="a"></div><div id="b"></div>
+<div id="c"></div><div id="d"></div><div id="e"></div><div id="f"></div><div id="g"></div><div id="h"></div>
+<style>
+  body{background:#1A4341;}
+  div{
+    background:#998235;
+    height:50;width:50;
+    border-radius:100%
+  }
+  #a{
+    margin-left:62;
+    margin-top:90;
+  }
+  #b{
+    margin-top:-50;
+    margin-left:132;
+    border-radius:50px 50px 0 0;
+    background:#F3AC3C;
+  }
+  #c{
+    margin-left:202;
+    margin-top:-50;
+    border-radius:50px 50px 0 0;
+  }
+  #d{
+    margin-left:272;
+    margin-top:-50;
+    background:#F3AC3C;
+  }
+  #e{
+    margin-left:62;
+    margin-top:20;
+    border-radius:0 0 50px 50px;
+    background:#F3AC3C;
+  }
+  #f{
+    margin-left:132;
+    margin-top:-50;
+  }
+  #g{
+    background:#F3AC3C;
+    margin-left:202;
+    margin-top:-50;
+  }
+  #h{
+    border-radius:0 0 50px 50px;
+    margin-left:272;
+    margin-top:-50;
+  }
