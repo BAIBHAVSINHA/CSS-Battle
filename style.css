@@ -193,3 +193,26 @@
 
 
 #22 css solution
+<div id="a"></div><div id="b"></div><div id="c"></div>
+<style>
+  body{background:#F5D6B4;}
+  div{
+    background:#D86F45;
+  }
+  #a{
+    height:50;
+    width:170;
+    border-radius:100px;
+    margin-left:122;
+    margin-top:165;
+  }
+  #b{
+    height:100;width:100;
+    margin-top:-100;
+    border-radius:100px;
+    margin-left:92;
+  }
+  #c{
+    height:100;width:100;border-radius:100px;margin-top:-130;margin-left:172;
+  }
+
