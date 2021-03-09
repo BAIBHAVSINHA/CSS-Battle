@@ -462,22 +462,22 @@ margin-top:-30;
   }
 
 #28 css solution
-body{background:#1A4341;}
-div{background:#998235;height:50;width:50;border-radius:100%}
-#a{margin-left:62;margin-top:90;}
-#b{margin-top:-50;margin-left:132;border-radius:50px 50px 0 0;background:#F3AC3C;}
-#c{margin-left:202;margin-top:-50;border-radius:50px 50px 0 0;}
-#d{margin-left:272;margin-top:-50;background:#F3AC3C;}
-#e{margin-left:62;margin-top:20;border-radius:0 0 50px 50px;background:#F3AC3C;}
-#f{margin-left:132;margin-top:-50;}
-#g{background:#F3AC3C;margin-left:202;margin-top:-50;}
-#h{border-radius:0 0 50px 50px;margin-left:272;margin-top:-50;}
+"body{background:#1A4341;}
+"div{background:#998235;height:50;width:50;border-radius:100%}
+"#a{margin-left:62;margin-top:90;}
+"#b{margin-top:-50;margin-left:132;border-radius:50px 50px 0 0;background:#F3AC3C;}
+"#c{margin-left:202;margin-top:-50;border-radius:50px 50px 0 0;}
+"#d{margin-left:272;margin-top:-50;background:#F3AC3C;}
+"#e{margin-left:62;margin-top:20;border-radius:0 0 50px 50px;background:#F3AC3C;}
+"#f{margin-left:132;margin-top:-50;}
+"#g{background:#F3AC3C;margin-left:202;margin-top:-50;}
+"#h{border-radius:0 0 50px 50px;margin-left:272;margin-top:-50;}
 
 #29 css solution
-body{background:#F3AC3C;}
-div{height:194;width:194;background:#1A4341;}
-#a{margin-top:52;margin-left:95;}
-#b{background:#F3AC3C;height:190;width:190;border-radius:100%;margin-top:-288;margin-left:191;}
-#c{background:#F3AC3C;height:190;width:190;border-radius:100%;margin-left:194;margin-top:1;}
-#d{background:#F3AC3C;height:190;width:190;margin-top:-380;margin-left:;border-radius:100%;}
-#e{height:190;width:190;background:#F3AC3C;border-radius:100%;margin-top:1;margin-left:2.5}
+"body{background:#F3AC3C;}
+"div{height:194;width:194;background:#1A4341;}
+"#a{margin-top:52;margin-left:95;}
+"#b{background:#F3AC3C;height:190;width:190;border-radius:100%;margin-top:-288;margin-left:191;}
+"#c{background:#F3AC3C;height:190;width:190;border-radius:100%;margin-left:194;margin-top:1;}
+"#d{background:#F3AC3C;height:190;width:190;margin-top:-380;margin-left:;border-radius:100%;}
+"#e{height:190;width:190;background:#F3AC3C;border-radius:100%;margin-top:1;margin-left:2.5}
