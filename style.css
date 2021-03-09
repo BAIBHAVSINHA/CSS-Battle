@@ -437,26 +437,10 @@ margin-left:272;
 margin-top:-50;
 background:#F3AC3C;
 }
-#e{
-margin-left:62;
-margin-top:20;
-border-radius:0 0 50px 50px;
-background:#F3AC3C;
-}
-#f{
-margin-left:132;
-margin-top:-50;
-}
-#g{
-background:#F3AC3C;
-margin-left:202;
-margin-top:-50;
-}
-#h{
-border-radius:0 0 50px 50px;
-margin-left:272;
-margin-top:-50;
-}
+#e{margin-left:62;margin-top:20;border-radius:0 0 50px 50px;background:#F3AC3C;}
+#f{margin-left:132;margin-top:-50;}
+#g{background:#F3AC3C;margin-left:202;margin-top:-50;}
+#h{border-radius:0 0 50px 50px;margin-left:272;margin-top:-50;}
 
 #28 css solution
 "body{background:#1A4341;}
