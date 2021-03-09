@@ -152,36 +152,32 @@
 "#h{height:40;width:40;background:#62306D;border-radius:30px;margin-top:-140;margin-left:272;}
 
 #21 css solution
-body{background:#222;}
-div{height:100;width:30;background:#F2994A;}
-#a{border-radius:0 0 0 10px;margin-left:147;margin-top:58;transform:rotate(45deg);}
-#b{height:70;margin-left:144.2;margin-top:-39;border-radius:5px 0 0 0;transform:rotate(135deg)}
-#c{height:80;background:#2D9CDB;margin-top:-80.5;transform:rotate(135deg);margin-left:212.5;border-radius:10px 0 5px 0;}
-#d{height:80;background:#2D9CDB;transform:rotate(45deg);margin-left:198;margin-top:-30;}
+"body{background:#222;}
+"div{height:100;width:30;background:#F2994A;}
+"#a{border-radius:0 0 0 10px;margin-left:147;margin-top:58;transform:rotate(45deg);}
+"#b{height:70;margin-left:144.2;margin-top:-39;border-radius:5px 0 0 0;transform:rotate(135deg)}
+"#c{height:80;background:#2D9CDB;margin-top:-80.5;transform:rotate(135deg);margin-left:212.5;border-radius:10px 0 5px 0;}
+"#d{height:80;background:#2D9CDB;transform:rotate(45deg);margin-left:198;margin-top:-30;}
 
 #22 css solution
-<div id="a"></div><div id="b"></div><div id="c"></div>
-<style>
-  body{background:#F5D6B4;}
-  div{
-    background:#D86F45;
-  }
-  #a{
-    height:50;
-    width:170;
-    border-radius:100px;
-    margin-left:122;
-    margin-top:165;
-  }
-  #b{
-    height:100;width:100;
-    margin-top:-100;
-    border-radius:100px;
-    margin-left:92;
-  }
-  #c{
-    height:100;width:100;border-radius:100px;margin-top:-130;margin-left:172;
-  }
+"body{background:#F5D6B4;}
+div{background:#D86F45;}
+#a{
+height:50;
+width:170;
+border-radius:100px;
+margin-left:122;
+margin-top:165;
+}
+#b{
+height:100;width:100;
+margin-top:-100;
+border-radius:100px;
+margin-left:92;
+}
+#c{
+height:100;width:100;border-radius:100px;margin-top:-130;margin-left:172;
+}
 
 #23 css solution
 <div id="a"></div><div id="b"></div><div id="c"></div>
