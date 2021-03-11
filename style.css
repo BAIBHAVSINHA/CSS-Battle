@@ -302,3 +302,25 @@ div{
 #33 css solution
 
 #34 css solution
+div
+  {
+  width:0;
+  border-style:solid;
+  transform:rotate(180deg);
+  border-width:100px 125px 1px;
+  margin-top:-151;
+  margin-left:67;
+  }
+#a
+  {
+    border-color:#00A79D transparent transparent;
+    margin-top:149;
+  }
+#b
+  {
+    border-color:#F5C181 transparent transparent;
+  }
+#c
+  {
+    border-color:#FFEECF transparent transparent;
+  }
