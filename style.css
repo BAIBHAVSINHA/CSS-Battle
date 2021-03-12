@@ -265,26 +265,7 @@ div{width:0;border-style:solid;transform:rotate(180deg);border-width:100px 125px
 #c{border-color:#FFEECF transparent transparent;}
 
 #35 css solution
-body{
-background:#293462;
-}
-#a{
-height:150;
-width:100;
-border-radius:100px 100px 40px 40px;
-background:#FFF1C1;
-margin-top:50;
-margin-left:142;
-}
-#b{
-background:#FE5F55;
-height:50;width:30;border-radius:0 0 10px 10px;
-margin-left:177;
-}
-#c{
-background:#A64942;
-height:10;
-width:30;
-margin-top:-50;
-margin-left:177;
-}
+body{background:#293462;}
+#a{height:150;width:100;border-radius:100px 100px 40px 40px;background:#FFF1C1;margin-top:50;margin-left:142;}
+#b{background:#FE5F55;height:50;width:30;border-radius:0 0 10px 10px;margin-left:177;}
+#c{background:#A64942;height:10;width:30;margin-top:-50margin-left:177;}
