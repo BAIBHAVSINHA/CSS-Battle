@@ -246,23 +246,23 @@ div{height:100;width:200;border-radius:900px 900px 0 0;}
 #b{background:#E38F66;transform:rotate(90deg);margin-top:-100;margin-left:167;}
 
 #32 css solution
-div{height:200;width:50;transform:rotate(45deg);}
-#a{background:#F3AC3C;transform:rotate(135deg);margin-top:50;margin-left:167;}
-#b{background:#A3A368;margin-top:-200;margin-left:167;}
-#c{height:50;width:50;background:#FBE18C;margin-top:-125.1;margin-left:167;}
+"div{height:200;width:50;transform:rotate(45deg);}
+"#a{background:#F3AC3C;transform:rotate(135deg);margin-top:50;margin-left:167;}
+"#b{background:#A3A368;margin-top:-200;margin-left:167;}
+"#c{height:50;width:50;background:#FBE18C;margin-top:-125.1;margin-left:167;}
 
 #33 css solution
-body{background:#1A4341;}
-#a{height:75;width:150;border-radius:100px 100px 0 0;background:#998235;transform:rotate(270deg);margin-top:112;margin-left:79;}
-#b{height:100;width:200;border-radius:100px 100px 0 0;transform:rotate(90deg);background:#F3AC3C;margin-top:-87;margin-left:142.3;}
-#c{height:30;width:30;border-radius:100%;background:#0B2429;margin-left:146.7;margin-top:-95.5;transform:rotate(45deg);}
-#d{transform:rotate(0deg);height:120; width:120;background:#1A4341;margin-left:192;margin-top:15;}
+"body{background:#1A4341;}
+"#a{height:75;width:150;border-radius:100px 100px 0 0;background:#998235;transform:rotate(270deg);margin-top:112;margin-left:79;}
+"#b{height:100;width:200;border-radius:100px 100px 0 0;transform:rotate(90deg);background:#F3AC3C;margin-top:-87;margin-left:142.3;}
+"#c{height:30;width:30;border-radius:100%;background:#0B2429;margin-left:146.7;margin-top:-95.5;transform:rotate(45deg);}
+"#d{transform:rotate(0deg);height:120; width:120;background:#1A4341;margin-left:192;margin-top:15;}
 
 #34 css solution
-div{width:0;border-style:solid;transform:rotate(180deg);border-width:100px 125px 1px;margin-top:-151;margin-left:67;}
-#a{border-color:#00A79D transparent transparent;margin-top:149;}
-#b{border-color:#F5C181 transparent transparent;}
-#c{border-color:#FFEECF transparent transparent;}
+"div{width:0;border-style:solid;transform:rotate(180deg);border-width:100px 125px 1px;margin-top:-151;margin-left:67;}
+"#a{border-color:#00A79D transparent transparent;margin-top:149;}
+"#b{border-color:#F5C181 transparent transparent;}
+"#c{border-color:#FFEECF transparent transparent;}
 
 #35 css solution
 body{background:#293462;}
