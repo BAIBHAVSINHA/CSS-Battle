@@ -335,6 +335,47 @@ body{
   }
 
 #38 css solution
+ body{
+    background:#293462;
+  }
+  div{
+    background:#FE5F55;
+  }
+  #a{
+    background:#FFF1C1;
+    height:200;
+    width:200;
+    margin-top:-8;
+    margin-left:-8;
+  }
+  #b{
+    height:100;
+    width:200;
+    margin-left:-8;
+  }
+  #c{
+    height:100;
+    width:200;
+    transform:rotate(90deg);
+    margin-top:-250;
+    margin-left:142;
+  }
+  #d{
+    background:#A64942;
+    height:100;
+    width:50;
+    margin-left:142;
+    margin-top:50;
+  }
+  #e{
+    background:#A64942;
+    height:100;
+    width:50;
+    margin-top:-175;
+    margin-left:217;
+    transform:rotate(90deg);
+  }
+
 
 #39 css solution
 
