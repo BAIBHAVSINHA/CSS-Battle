@@ -379,39 +379,39 @@ div{
 
 #39 css solution
 body{
-    background:#1A4341;
-  }
-  #a{
-    height:200;
-    width:200;
-    border-radius:100%;
-    background:#998235;;margin-top:50;
-    margin-left:92;
-  }
-  #b{
-    background:#1A4341;
-    height:140;width:400;
-    margin-top:-170;
-    margin-left:-8;
-  }
-  #c{
-    height:20;width:249.9;
-    background:#F3AC3C;
-    margin-top:-80;
-    margin-left:67;
-  }
-  #d{
-    height:20;width:250;
-    background:#F3AC3C;
-    margin-top:-60;
-    margin-left:67;
-  }
-  #e{
-    height:20;width:250;
-    background:#F3AC3C;
-    margin-top:60;
-    margin-left:67;
-  }
+background:#1A4341;
+}
+#a{
+height:200;
+width:200;
+border-radius:100%;
+background:#998235;;margin-top:50;
+margin-left:92;
+}
+#b{
+background:#1A4341;
+height:140;width:400;
+margin-top:-170;
+margin-left:-8;
+}
+#c{
+height:20;width:249.9;
+background:#F3AC3C;
+margin-top:-80;
+margin-left:67;
+}
+#d{
+height:20;width:250;
+background:#F3AC3C;
+margin-top:-60;
+margin-left:67;
+}
+#e{
+height:20;width:250;
+background:#F3AC3C;
+margin-top:60;
+margin-left:67;
+}
 #f{
 height:20;width:50;
 background:#1A4341;
