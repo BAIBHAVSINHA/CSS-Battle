@@ -1,10 +1,6 @@
 # CSS-Battle
 
-CSS-BATTLE RANk AFTER A WEEK 359/16230
-
-
-
-
+CSS-BATTLE RANk AFTER A WEEK 394/76417 😊
 
 
 #1 solution-> The Solution is in 3 steps please follow for viewing.
