@@ -661,7 +661,41 @@ body{background:#191919;}
   }
 
 #57 css solution
-
+body{background:#191919;}
+  #a{ height:110;width:110;background:#4F77FF;margin-top:95;margin-left:137;
+  }
+  #b{
+   height:60;width:60;border-radius:100%;background:#191919;margin-top:-130;margin-left:207; 
+  }
+  #c{
+   height:60;width:60;border-radius:100%;background:#191919;margin-top:30;margin-left:207; 
+  }
+  #d{
+   height:60;width:60;border-radius:100%;background:#191919;margin-top:-60;margin-left:117; 
+  }
+  #e{
+   height:60;width:60;border-radius:100%;background:#191919;margin-top:-150;margin-left:117; 
+  }
+  #f{
+    height:45;width:45;border-radius:100%;background:#F9E492;margin-left:222;margin-top:-60;
+  }
+  #g{
+    height:45;width:45;border-radius:100%;background:#F9E492;margin-left:222;margin-top:60;
+  }
+  #h{
+    height:45;width:45;border-radius:100%;background:#F9E492;margin-left:117;margin-top:-150;
+  }
+  #i{
+    height:45;width:45;border-radius:100%;background:#F9E492;margin-left:117;margin-top:60;
+  }
+  #j{ height:30;width:30;background:#4F77FF;border-radius:100%;margin-top:-150;margin-left:237;
+  }
+  #k{ height:30;width:30;background:#4F77FF;border-radius:100%;margin-top:90;margin-left:237;
+  }
+  #l{ height:30;width:30;background:#4F77FF;border-radius:100%;margin-top:-150;margin-left:117;
+  }
+  #m{ height:30;width:30;background:#4F77FF;border-radius:100%;margin-top:90;margin-left:117;
+  }
 
 #58 css solution
 
