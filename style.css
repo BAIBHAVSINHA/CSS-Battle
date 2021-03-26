@@ -553,6 +553,16 @@ body{background:#6592CF;}
 
 
 #53 css solution
+body{background:#19191a;}
+div{
+background:#4f77ff;
+height:75;
+width:75;
+margin-left:117;
+}
+#a{height:150;width:150;border-radius:100%;margin-top:50;}
+#b{height:125;background:#f9e492;margin-top:-75;}
+#c{background:#9ad5ff;margin-top:-125;border-radius:0 0 0 100px;}
 
 
 #54 css solution
