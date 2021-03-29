@@ -442,12 +442,7 @@ body{background:#6592CF;}
 
 #53 css solution
 body{background:#19191a;}
-div{
-background:#4f77ff;
-height:75;
-width:75;
-margin-left:117;
-}
+div{background:#4f77ff;height:75;width:75;margin-left:117;}
 #a{height:150;width:150;border-radius:100%;margin-top:50;}
 #b{height:125;background:#f9e492;margin-top:-75;}
 #c{background:#9ad5ff;margin-top:-125;border-radius:0 0 0 100px;}
@@ -456,65 +451,64 @@ margin-left:117;
 #54 css solution
 body{background:#f9e492;}
 div{
-  height:40;
-  width:100;
-  background:#191919;
+height:40;
+width:100;
+background:#191919;
 }
-  #a{
-    margin:138px 142px;
-    border-radius:0 0 10px 10px;
-  }
-  #b{
-    margin-top:-153;
-    margin-left:167;
-    height:60;
-    width:50;
-    border-radius:0 0 10px 10px;
-  }
-  #c{
-    height:45;
-    width:20;
-    border-radius:10px 10px;
-    margin-top:-135;
-    margin-left:197;
-  }
-  #d{
-    height:35;
-    width:20;
-    border-radius:10px 10px;
-    margin-left:222;
-    margin-top:-35;
-  }
-  #e{
-    height:55;
-    width:20;
-    border-radius:10px 10px;
-    margin-left:172;
-    margin-top:-55;
-  }
-  #f{
-    height:45;
-    width:20;
-    border-radius:10px 10px;
-    margin-left:147;
-    margin-top:-45;
-  }
-  #g{
-    height:80;
-    width:30;border-radius:15px 15px;
-    background:#F9E492;
-    margin-top:-30;
-    margin-left:142;
-    transform:rotate(60deg);
-  }
-  #h{
-    height:65;
-    width:20;border-radius:10px 10px;
-    margin-top:-74;
-    margin-left:149;
-    transform:rotate(60deg);
-  }
-
+#a{
+margin:138px 142px;
+border-radius:0 0 10px 10px;
+}
+#b{
+margin-top:-153;
+margin-left:167;
+height:60;
+width:50;
+border-radius:0 0 10px 10px;
+}
+#c{
+height:45;
+width:20;
+border-radius:10px 10px;
+margin-top:-135;
+margin-left:197;
+}
+#d{
+height:35;
+width:20;
+border-radius:10px 10px;
+margin-left:222;
+margin-top:-35;
+}
+#e{
+height:55;
+width:20;
+border-radius:10px 10px;
+margin-left:172;
+margin-top:-55;
+}
+#f{
+height:45;
+width:20;
+border-radius:10px 10px;
+margin-left:147;
+margin-top:-45;
+}
+#g{
+height:80;
+width:30;border-radius:15px 15px;
+background:#F9E492;
+margin-top:-30;
+margin-left:142;
+transform:rotate(60deg);
+}
+#h{
+height:65;
+width:20;border-radius:10px 10px;
+margin-top:-74;
+margin-left:149;
+transform:rotate(60deg);
+}
 
 #55 css solution
 body{background:#19191a;}
