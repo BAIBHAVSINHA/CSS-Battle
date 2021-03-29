@@ -622,19 +622,10 @@ body{background:#191919;}
 
 #59 css solution
 body{background:#191919}
-  #a{ background:#4F77FF;height:150;width:150;border-radius:100%;margin-top:75;margin-left:117;
-  }
-  #b{
-    height:130;width:130;border-radius:0 115px 0 115px;background:#191919;margin-top:-140;transform:rotate(45deg);margin-left:127;
-  }
-  #c{
-    height:110;width:110;border-radius:0 105px 0 105px;background:#4F77FF;transform:rotate(45deg);margin-top:-118;margin-left:137;
-  }
-  #d{ height:250;width:10;background:#191919;margin-top:-170;margin-left:187;transform:rotate(0deg);
-  }
-  #e{ height:10;width:200;background:#191919;margin-top:-182;margin-left:90;transform:rotate(0deg);
-  }
-  #f{ height:10;width:200;background:#191919;margin-top:30;margin-left:90;transform:rotate(0deg);
-  }
-  #g{ height:10;width:200;background:#191919;margin-top:30;margin-left:90;transform:rotate(0deg);
-  }
+#a{ background:#4F77FF;height:150;width:150;border-radius:100%;margin-top:75;margin-left:117;}
+#b{height:130;width:130;border-radius:0 115px 0 115px;background:#191919;margin-top:-140;transform:rotate(45deg);margin-left:127;}
+#c{height:110;width:110;border-radius:0 105px 0 105px;background:#4F77FF;transform:rotate(45deg);margin-top:-118;margin-left:137;}
+#d{ height:250;width:10;background:#191919;margin-top:-170;margin-left:187;transform:rotate(0deg);}
+#e{ height:10;width:200;background:#191919;margin-top:-182;margin-left:90;transform:rotate(0deg);}
+#f{ height:10;width:200;background:#191919;margin-top:30;margin-left:90;transform:rotate(0deg);}
+#g{ height:10;width:200;background:#191919;margin-top:30;margin-left:90;transform:rotate(0deg);}
