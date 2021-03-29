@@ -397,99 +397,98 @@
 
 #50 css solution
 body
-  {
-    background:#1A4341;
-  }
-  #a
-  {
-    background:#F3AC3C;
-    height:20;
-    width:146;
-    border-radius:20px;
-    margin-left:142;
-    margin-top:50;
-  }
-  #b
-  {
-    background:#F3AC3C;
-    height:40;
-    width:20;
-    margin-top:-20;
-    margin-left:272;
-    border-radius:20px;
-  }
-  #c
-  {
-    background:#998235;
-    height:20;
-    width:20;
-    border-radius:100%;
-    margin-top:10;
-    margin-left:272;
-  }
-  #d
-  {
-    background:#998235;
-    height:20;
-    width:20;
-    margin-left:272;
-    margin-top:10;
-    border-radius:100%;
-  }
-  #e
-  {
-    background:#F3AC3C;
-    height:30;
-    width:20;
-    margin-left:182;
-    margin-top:-85;
-  }
-  #f
-  {
-    background:#F3AC3C;
-    height:30;
-    width:50;
-    margin-left:167;
-    margin-top:-5;
-    border-radius:10px 10px 0 0; 
-  }
-  #g
-  {
-    background:#F3AC3C;
-    height:70;
-    width:100;
-    border-radius:20px 20px 0 0;
-    margin-top:-10;
-    margin-left:142;
-  }
-  #h
-  {
-    background:#998235;
-    height:80;
-    width:100;
-    margin-top:-10;
-    margin-left:142;
-    border-radius:0 0 20px 20px;
-  }
-  #i
-  {
-    background:#998235;
-    height:50;
-    width:50;
-    margin-top:-110;
-    margin-left:142;
-    border-radius:50px 50px 0 0;
-  }
-  #j
-  {
-    background:#F3AC3C;
-    height:50;
-    width:50;
-    margin-top:-50;
-    margin-left:192;
-    border-radius:0 0 50px 50px;
-  }
-
+{
+background:#1A4341;
+}
+#a
+{
+background:#F3AC3C;
+height:20;
+width:146;
+border-radius:20px;
+margin-left:142;
+margin-top:50;
+}
+#b
+{
+background:#F3AC3C;
+height:40;
+width:20;
+margin-top:-20;
+margin-left:272;
+border-radius:20px;
+}
+#c
+{
+background:#998235;
+height:20;
+width:20;
+border-radius:100%;
+margin-top:10;
+margin-left:272;
+}
+#d
+{
+background:#998235;
+height:20;
+width:20;
+margin-left:272;
+margin-top:10;
+border-radius:100%;
+}
+#e
+{
+background:#F3AC3C;
+height:30;
+width:20;
+margin-left:182;
+margin-top:-85;
+}
+#f
+{
+background:#F3AC3C;
+height:30;
+width:50;
+margin-left:167;
+margin-top:-5;
+border-radius:10px 10px 0 0; 
+}
+#g
+{
+background:#F3AC3C;
+height:70;
+width:100;
+border-radius:20px 20px 0 0;
+margin-top:-10;
+margin-left:142;
+}
+#h
+{
+background:#998235;
+height:80;
+width:100;
+margin-top:-10;
+margin-left:142;
+border-radius:0 0 20px 20px;
+}
+#i
+{
+background:#998235;
+height:50;
+width:50;
+margin-top:-110;
+margin-left:142;
+border-radius:50px 50px 0 0;
+}
+#j
+{
+background:#F3AC3C;
+height:50;
+width:50;
+margin-top:-50;
+margin-left:192;
+border-radius:0 0 50px 50px;
+}
 
 #51 css solution
 body{background:#293462;}
