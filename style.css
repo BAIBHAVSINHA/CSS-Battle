@@ -410,23 +410,14 @@ body{background:#1A4341;}
 
 #51 css solution
 body{background:#293462;}
-#a{
-height:100;width:150;border-radius:0 0 50px 50px;margin-top:100;margin-left:117;background:#FFF1C1;
-}
-#b{height:60;width:65;background:#FFF1C1;border-radius:50px 0 0 50px;margin-top:-100;margin-left:57;
-}
-#c{height:60;width:65;background:#FFF1C1;border-radius:0 50px 50px 0;margin-top:-60;margin-left:262;
-}
-#d{height:40;width:50;background:#293462;border-radius:50px 0 0 50px;margin-top:-50;margin-left:67;
-}
-#e{height:40;width:50;background:#293462;border-radius:0 50px 50px 0;margin-top:-40;margin-left:267;
-}
-#f{height:10;width:40;border-radius:10px;background:#FE5F55;margin-top:-30;margin-left:137;
-}
-#g{height:10;width:40;border-radius:10px;background:#FE5F55;margin-top:10;margin-left:137;
-}
-#h{height:40;width:40;border-radius:100%;margin-left:207;margin-top:-10;background:#FE5F55;
-}
+#a{height:100;width:150;border-radius:0 0 50px 50px;margin-top:100;margin-left:117;background:#FFF1C1;}
+#b{height:60;width:65;background:#FFF1C1;border-radius:50px 0 0 50px;margin-top:-100;margin-left:57;}
+#c{height:60;width:65;background:#FFF1C1;border-radius:0 50px 50px 0;margin-top:-60;margin-left:262;}
+#d{height:40;width:50;background:#293462;border-radius:50px 0 0 50px;margin-top:-50;margin-left:67;}
+#e{height:40;width:50;background:#293462;border-radius:0 50px 50px 0;margin-top:-40;margin-left:267;}
+#f{height:10;width:40;border-radius:10px;background:#FE5F55;margin-top:-30;margin-left:137;}
+#g{height:10;width:40;border-radius:10px;background:#FE5F55;margin-top:10;margin-left:137;}
+#h{height:40;width:40;border-radius:100%;margin-left:207;margin-top:-10;background:#FE5F55;}
 
 #52 css solution
 body{background:#6592CF;}
