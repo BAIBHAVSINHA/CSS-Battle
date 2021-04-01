@@ -518,6 +518,39 @@
 "#g{ height:10;width:200;background:#191919;margin-top:30;margin-left:90;transform:rotate(0deg);}
 
 #60 css solution
+ body{
+    background:#191919;
+  }
+  div{
+    width:0;
+    border-style:solid;
+  }
+  #a{
+    border-width:50px 50px;
+    border-color:#4F77FF transparent transparent;margin-top:75;margin-left:92;
+  }
+  #b{
+    border-width:50px 50px;
+    border-color:#4F77FF transparent transparent;margin-top:-100;margin-left:192;
+  }
+  #c{transform:rotate(180deg);border-width:100px 100px;margin-top:-150;margin-left:92;border-color:#4F77FF transparent transparent;}
+  #d{transform:rotate(180deg);border-width:100px 100px;margin-top:-200;margin-left:-8;border-color:#4F77FF transparent transparent;}
+   #e{transform:rotate(180deg);border-width:100px 100px;margin-top:-200;margin-left:192;border-color:#4F77FF transparent transparent;}
+  
+  #f{transform:rotate(180deg);
+    border-width:50px 50px;
+    border-color:#191919 transparent transparent;margin-top:-100;margin-left:142;
+  }
+  #g{transform:rotate(180deg);
+    border-width:50px 50px;
+    border-color:#191919 transparent transparent;margin-top:-100;margin-left:42;
+  }
+  #h{transform:rotate(180deg);
+    border-width:50px 50px;
+    border-color:#191919 transparent transparent;margin-top:-100;margin-left:242;
+  }
+  #i{height:100;width:110;background:#191919;margin-top:-100;transform:rotate(0deg);border-style:none;margin-left:-18}
+  #j{height:100;width:110;background:#191919;margin-top:-100;transform:rotate(0deg);border-style:none;margin-left:292}
 
 #61 css solution
 
