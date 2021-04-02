@@ -701,31 +701,18 @@ body{background:#191919;}
 
 #67 css solution
 body{background:#5DBCF9;}
-  #a{ height:110;width:150;background:#191919;margin-top:-38;margin-left:-113;
-  }
-  #b{ height:110;width:150;background:#191919;margin-top:40;margin-left:-113;
-  }
-  #c{ height:110;width:150;background:#191919;margin-top:40;margin-left:-113;
-  }
-  #d{ height:110;width:140;background:#191919;margin-top:-460;margin-left:47;
-  }
-  #e{ height:110;width:140;background:#191919;margin-top:40;margin-left:47;
-  }
-  #f{ height:110;width:140;background:#191919;margin-top:40;margin-left:47;
-  }
-  #g{ height:110;width:140;background:#191919;margin-top:-360;margin-left:197;
-  }
-  #h{ height:110;width:140;background:#191919;margin-top:40;margin-left:197;
-  }
-  #i{ height:110;width:140;background:#191919;margin-top:40;margin-left:197;
-  }
-  #j{ height:110;width:140;background:#191919;margin-top:-460;margin-left:347;
-  }
-  #k{ height:110;width:140;background:#191919;margin-top:40;margin-left:347;
-  }
-  #l{ height:110;width:140;background:#191919;margin-top:40;margin-left:347;
-  }
-
+#a{height:110;width:150;background:#191919;margin-top:-38;margin-left:-113;}
+#b{height:110;width:150;background:#191919;margin-top:40;margin-left:-113;}
+#c{height:110;width:150;background:#191919;margin-top:40;margin-left:-113;}
+#d{height:110;width:140;background:#191919;margin-top:-460;margin-left:47;}
+#e{height:110;width:140;background:#191919;margin-top:40;margin-left:47;}
+#f{height:110;width:140;background:#191919;margin-top:40;margin-left:47;}
+#g{height:110;width:140;background:#191919;margin-top:-360;margin-left:197;}
+#h{height:110;width:140;background:#191919;margin-top:40;margin-left:197;}
+#i{height:110;width:140;background:#191919;margin-top:40;margin-left:197;}
+#j{height:110;width:140;background:#191919;margin-top:-460;margin-left:347;}
+#k{height:110;width:140;background:#191919;margin-top:40;margin-left:347;}
+#l{height:110;width:140;background:#191919;margin-top:40;margin-left:347;}
 
 #68 css solution
 body{background:#191919}
