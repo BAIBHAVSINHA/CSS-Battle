@@ -549,44 +549,11 @@ div{background:#5DBCF9;}
 #m{height:10;width:110;margin-top:10;margin-left:137;}
 
 #62 css solution
-body{background:#191919;
-  display:flex;
-  justify-content:center;
-  align-items:center;}
-  #a
-  {
-    background:#F2AD43;
-    height:200;width:150;
-    border-radius:100px 100px 29px 29px;overflow:hidden;
-  }
-  .b
-  {
-    height:60;
-    width:60;
-    border-radius:100%;
-    background:#FFF58F;
-    margin-top:90;
-    margin-left:45;
-  }
-  .c
-  {
-    height:200;
-    width:200;
-    background:#E08027;
-    border-radius:100%;
-    margin-left:-100;
-    margin-top:-50;
-  }
-  .d
-  {
-    height:200;
-    width:200;
-    border-radius:100%;
-    background:#824B20;
-    margin-top:-200;
-    margin-left:50;
-  }
-
+body{background:#191919;display:flex;justify-content:center;align-items:center;}
+#a{background:#F2AD43;height:200;width:150;border-radius:100px 100px 29px 29px;overflow:hidden;}
+.b{height:60;width:60;border-radius:100%;background:#FFF58F;margin-top:90;margin-left:45;}
+.c{height:200;width:200;background:#E08027;border-radius:100%;margin-left:-100;margin-top:-50;}
+.d{height:200;width:200;border-radius:100%;background:#824B20;margin-top:-200;margin-left:50;}
 
 #63 css solution
 body{background:#191919;}
