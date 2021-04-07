@@ -815,108 +815,17 @@ height:70;width:40;background:#E08027;border-radius:0 0 60px 80px;margin-top:-80
   }
          
 #75 css solution
-body
-{
-background:#191919;
-}
-#a
-{
-height:100;
-width:130;
-border-radius:60px 60px 0 0;
-background:#FE5F55;
-margin-left:127;
-margin-top:75;
-transform:rotate(0deg);
-}
-#b
-{
-height:100;
-width:150;
-background:#A64942;
-border-radius:80px 80px 65px 65px;
-margin-top:-30;
-margin-left:117;
-transform:rotate(0deg);
-}
-#c
-{
-height:26;
-width:26;
-background:#000000;
-border-radius:35px 90px 35px 90px;
-margin-left:219;
-margin-top:-78;
-transform:rotate(0deg);
-}
-#d
-{
-height:26;
-width:26;
-background:#000000;
-border-radius:90px 35px 90px 35px;
-margin-left:139;
-margin-top:-26;
-transform:rotate(0deg);
-}
-#e
-{
-height:10;
-width:10;
-background:#000000;
-margin-top:-68;
-margin-left:152;
-border-radius:100%;
-transform:rotate(0deg);
-}
-#f
-{
-height:10;
-width:10;
-background:#000000;
-margin-top:-10;
-margin-left:222;
-border-radius:100%;
-transform:rotate(0deg);
-}
-#g
-{
-height:25;
-width:25;
-border-radius:10px 30px 10px 30px;
-background:#FE5F55;
-margin-left:140;
-margin-top:-62;
-overflow:hidden;
-}
-#h
-{
-height:15;
-width:15;
-background:#000000;
-margin-top:5;
-margin-left:5;
-border-radius:7px 22px;
-}
-#i
-{
-height:25;
-width:25;
-border-radius:30px 10px 30px 10px;
-background:#FE5F55;
-margin-left:220;
-margin-top:-25;
-overflow:hidden;
-}
-#j
-{
-height:15;
-width:15;
-background:#000000;
-margin-top:5;
-margin-left:5;
-border-radius:22px 7px;
-}
+"body{background:#191919;}
+"#a{height:100;width:130;border-radius:60px 60px 0 0;background:#FE5F55;margin-left:127;margin-top:75;transform:rotate(0deg);}
+'#b{height:100;width:150;background:#A64942;border-radius:80px 80px 65px 65px;margin-top:-30;margin-left:117;transform:rotate(0deg);}
+"#c{height:26;width:26;background:#000000;border-radius:35px 90px 35px 90px;margin-left:219;margin-top:-78;transform:rotate(0deg);}
+"#d{height:26;width:26;background:#000000;border-radius:90px 35px 90px 35px;margin-left:139;margin-top:-26;transform:rotate(0deg);}
+"#e{height:10;width:10;background:#000000;margin-top:-68;margin-left:152;border-radius:100%;transform:rotate(0deg);}
+"#f{height:10;width:10;background:#000000;margin-top:-10;margin-left:222;border-radius:100%;transform:rotate(0deg);}
+"#g{height:25;width:25;border-radius:10px 30px 10px 30px;background:#FE5F55;margin-left:140;margin-top:-62;overflow:hidden;}
+"#h{height:15;width:15;background:#000000;margin-top:5;margin-left:5;border-radius:7px 22px;}
+"#i{height:25;width:25;border-radius:30px 10px 30px 10px;background:#FE5F55;margin-left:220;margin-top:-25;overflow:hidden;}
+"#j{height:15;width:15;background:#000000;margin-top:5;margin-left:5;border-radius:22px 7px;}
          
 #76 css solution
 "body{background:#998235;}
