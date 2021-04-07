@@ -793,86 +793,86 @@ transform:rotate(0deg);
          
 #73 css solution
 body
-  {
-    background:#F3AC3C;
-  }
-  #a
-  {
-  height:60;width:60;border-radius:100%;background:#998235;margin-top:65;margin-left:107;
-  }
-  #b
-  {
-    height:60;width:60;background:#998235;border-radius:100%;margin-top:-60;margin-left:217;
-  }
-  #c
-  {
-    height:40;width:40;background:#1A4341;border-radius:100%;margin-top:-50;margin-left:117;
-  }
-  #d
-  {
-    height:40;width:40;background:#1A4341;border-radius:100%;margin-top:-40;margin-left:227;
-  }
-  #e
-  {
-    height:150;width:150;background:#998235;border-radius:100px 100px 80px 80px;margin-left:117;margin-top:-40;overflow:hidden;
-  }
-  .f
-  {
-    height:50;width:50;background:#1A4341;transform:rotate(45deg);margin-left:50;margin-top:-35;
-  }
-  #g
-  {
-    height:20;width:20;background:#1A4341;border-radius:100%;margin-top:-90;margin-left:142;transform:rotate(45deg);
-  }
-  #h
-  {
-    height:20;width:20;background:#1A4341;border-radius:100%;margin-top:-20;margin-left:222;transform:rotate(45deg);
-  }
-  #i
-  {
-    height:100;width:40;background:#FFFFFF;border-radius:25px 60px 60px 25px;transform:rotate(90deg);margin-left:172;margin-top:-15;overflow:hidden;
-  }
-  #j
-  { 
-    height:40;width:40;border-radius:100%;background:#1A4341;margin-top:45;margin-left:-10;
-  }
-  #k
-  {
-    height:40;width:40;border-radius:100%;background:#1A4341;margin-top:-70;margin-left:-10;
-  }
-  #l
-  {
-    height:20;width:20;background:#FFFFFF;border-radius:100%;
-  }
-  #m
-  {
-    height:20;width:20;background:#FFFFFF;border-radius:100%;margin-top:-50;
-  }
-  #n
-  {  
-  height:90;width:10;background:#FFFFFF;margin-top:-40;
-  }
-  #o
-  {
-    height:25;width:10;background:#1A4341;margin-left:186.9;margin-top:-80;transform:rotate(0deg);
-  }
+{
+background:#F3AC3C;
+}
+#a
+{
+height:60;width:60;border-radius:100%;background:#998235;margin-top:65;margin-left:107;
+}
+#b
+{
+height:60;width:60;background:#998235;border-radius:100%;margin-top:-60;margin-left:217;
+}
+#c
+{
+height:40;width:40;background:#1A4341;border-radius:100%;margin-top:-50;margin-left:117;
+}
+#d
+{
+height:40;width:40;background:#1A4341;border-radius:100%;margin-top:-40;margin-left:227;
+}
+#e
+{
+height:150;width:150;background:#998235;border-radius:100px 100px 80px 80px;margin-left:117;margin-top:-40;overflow:hidden;
+}
+.f
+{
+height:50;width:50;background:#1A4341;transform:rotate(45deg);margin-left:50;margin-top:-35;
+}
+#g
+{
+height:20;width:20;background:#1A4341;border-radius:100%;margin-top:-90;margin-left:142;transform:rotate(45deg);
+}
+#h
+{
+height:20;width:20;background:#1A4341;border-radius:100%;margin-top:-20;margin-left:222;transform:rotate(45deg);
+}
+#i
+{
+height:100;width:40;background:#FFFFFF;border-radius:25px 60px 60px 25px;transform:rotate(90deg);margin-left:172;margin-top:-15;overflow:hidden;
+}
+#j
+{ 
+height:40;width:40;border-radius:100%;background:#1A4341;margin-top:45;margin-left:-10;
+}
+#k
+{
+height:40;width:40;border-radius:100%;background:#1A4341;margin-top:-70;margin-left:-10;
+}
+#l
+{
+height:20;width:20;background:#FFFFFF;border-radius:100%;
+}
+#m
+{
+height:20;width:20;background:#FFFFFF;border-radius:100%;margin-top:-50;
+}
+#n
+{  
+height:90;width:10;background:#FFFFFF;margin-top:-40;
+}
+#o
+{
+height:25;width:10;background:#1A4341;margin-left:186.9;margin-top:-80;transform:rotate(0deg);
+}
 
 #74 css solution
 body
-  {
-    background:#191919;
-  }
-  #a
-  {
-    height:80;width:60;background:#E08027;border-radius:0 0 60px 60px;margin-left:-33;margin-top:78
-  }
-  #b
-  {
-    height:80;width:50;background:#191919;border-radius:0 0 60px 60px;margin-top:-85;margin-left:-28;
-  }
-  #c
-  {
-    height:70;width:40;background:#E08027;border-radius:0 0 60px 80px;margin-top:-80;margin-left:-28;
+{
+background:#191919;
+}
+#a
+{
+height:80;width:60;background:#E08027;border-radius:0 0 60px 60px;margin-left:-33;margin-top:78
+}
+#b
+{
+height:80;width:50;background:#191919;border-radius:0 0 60px 60px;margin-top:-85;margin-left:-28;
+}
+#c
+{
+height:70;width:40;background:#E08027;border-radius:0 0 60px 80px;margin-top:-80;margin-left:-28;
   }
   #d
   {
